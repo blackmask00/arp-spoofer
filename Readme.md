@@ -89,7 +89,7 @@ This script for arp spoofing target  application that performs a Man in the midd
 
 ### script image
 
-<img src="./slva.png" alt="ig">
+<img src="./slv.png" alt="ig">
 ## Social media
 
 ```
